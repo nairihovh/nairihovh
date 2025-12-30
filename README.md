@@ -1,7 +1,3 @@
-# 💫 About Me:
-## Hi there 👋 I'm nairihovh<br><br>🔭 I’m currently working on  <br>- ⚙️ **study-survive** — (JS) survival-themed web stuff  <br>- 📦 **MiTaniq** — Social Network (Community building platform)  <br><br>👯 I’m looking to collaborate on  <br>- Open-source tools / APIs  <br>- Learning tech demo projects  <br>- Anything cool with real impact 🚀<br><br>🤝 I’m looking for help with  <br>- UX / UI polishing on some side projects  <br>- Best practices for open-source  <br>- Building community around small JS/Go/Python/Node/C++ libs<br><br>🌱 I’m currently learning  <br>- Modern backend patterns  <br>- JavaScript libraries & frameworks  <br>- Python packaging & tooling<br><br>💬 Ask me about  <br>- Python & JavaScript & C++ basics  <br>- Git/GitHub workflows  <br>- Building small project portfolios<br><br>⚡ Fun fact  <br>I love creating little experimental projects just to **learn something new every time** 😊
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nairi.nh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nairi_hovhannisyan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nairihovh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nairihovhannisyan3@gmail.com) 
 
